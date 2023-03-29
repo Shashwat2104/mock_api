@@ -1,236 +1,260 @@
 {
-  "products": [
+  "data": [
     {
-      "id": "001",
-      "name": "Men's Running Shoes",
-      "description": "These running shoes are designed for comfort and durability. They are lightweight and provide great support for your feet. Perfect for both indoor and outdoor running.",
-      "price": 79.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-running-shoes.jpg"
-    },
-    {
-      "id": "002",
-      "name": "Women's Walking Shoes",
-      "description": "These walking shoes are comfortable and stylish. They are perfect for long walks or casual outings. They come in a variety of colors to match any outfit.",
-      "price": 59.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-walking-shoes.jpg"
-    },
-    {
-      "id": "003",
-      "name": "Men's Dress Shoes",
-      "description": "These dress shoes are made of high-quality leather and are perfect for any formal occasion. They come in black and brown.",
+      "id": 1,
+      "brand": "Nike",
+      "img": "https://cdn.pixabay.com/photo/2016/12/15/12/26/shoes-1908764__480.jpg",
       "price": 129.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-dress-shoes.jpg"
+      "details": "These sneakers feature a breathable mesh upper and a cushioned midsole for all-day comfort. Available in men's and women's sizes.",
+      "category": "Athletic Shoes"
     },
     {
-      "id": "004",
-      "name": "Women's Sandals",
-      "description": "These sandals are comfortable and perfect for summer. They come in a variety of colors and styles.",
-      "price": 39.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-sandals.jpg"
+      "id": 2,
+      "brand": "Adidas",
+      "img": "https://cdn.pixabay.com/photo/2013/05/31/20/36/sports-shoes-115151__480.jpg",
+      "price": 99.99,
+      "details": "These running shoes feature a lightweight design and responsive cushioning. Available in men's and women's sizes.",
+      "category": "Running Shoes"
     },
     {
-      "id": "005",
-      "name": "Kids' Sneakers",
-      "description": "These sneakers are perfect for kids who love to run and play. They are comfortable and durable. Available in various colors.",
-      "price": 29.99,
-      "category": "Kids",
-      "image": "https://example.com/images/kids-sneakers.jpg"
-    },
-    {
-      "id": "001",
-      "name": "Men's Running Shoes",
-      "description": "These running shoes are designed for comfort and durability. They are lightweight and provide great support for your feet. Perfect for both indoor and outdoor running.",
-      "price": 79.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-running-shoes.jpg"
-    },
-    {
-      "id": "002",
-      "name": "Women's Walking Shoes",
-      "description": "These walking shoes are comfortable and stylish. They are perfect for long walks or casual outings. They come in a variety of colors to match any outfit.",
+      "id": 3,
+      "brand": "Converse",
+      "img": "https://cdn.pixabay.com/photo/2016/12/16/14/44/shoes-1911527__480.jpg",
       "price": 59.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-walking-shoes.jpg"
+      "details": "These classic canvas sneakers feature a durable rubber sole and a timeless design. Available in men's and women's sizes.",
+      "category": "Casual Shoes"
     },
     {
-      "id": "003",
-      "name": "Men's Dress Shoes",
-      "description": "These dress shoes are made of high-quality leather and are perfect for any formal occasion. They come in black and brown.",
-      "price": 129.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-dress-shoes.jpg"
-    },
-    {
-      "id": "004",
-      "name": "Women's Sandals",
-      "description": "These sandals are comfortable and perfect for summer. They come in a variety of colors and styles.",
-      "price": 39.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-sandals.jpg"
-    },
-    {
-      "id": "005",
-      "name": "Kids' Sneakers",
-      "description": "These sneakers are perfect for kids who love to run and play. They are comfortable and durable. Available in various colors.",
-      "price": 29.99,
-      "category": "Kids",
-      "image": "https://example.com/images/kids-sneakers.jpg"
-    },
-    {
-      "id": "006",
-      "name": "Men's Winter Boots",
-      "description": "These boots are designed to keep your feet warm and dry during the winter. They have a waterproof exterior and a soft lining for extra warmth.",
-      "price": 99.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-winter-boots.jpg"
-    },
-    {
-      "id": "007",
-      "name": "Women's High Heels",
-      "description": "These high heels are perfect for a night out. They are stylish and comfortable, with a cushioned insole and non-slip sole.",
-      "price": 69.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-high-heels.jpg"
-    },
-    {
-      "id": "008",
-      "name": "Kids' Rain Boots",
-      "description": "These rain boots are perfect for kids who love to splash in puddles. They are waterproof and come in fun colors and designs.",
-      "price": 24.99,
-      "category": "Kids",
-      "image": "https://example.com/images/kids-rain-boots.jpg"
-    },
-    {
-      "id": "010",
-      "name": "Women's Ballet Flats",
-      "description": "These ballet flats are perfect for a day out. They are lightweight and comfortable, with a soft lining and cushioned insole.",
-      "price": 49.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-ballet-flats.jpg"
-    },
-    {
-      "id": "011",
-      "name": "Men's Hiking Boots",
-      "description": "These hiking boots are designed for rough terrain. They have a sturdy sole and a waterproof exterior to keep your feet dry.",
-      "price": 119.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-hiking-boots.jpg"
-    },
-    {
-      "id": "012",
-      "name": "Women's Wedge Sandals",
-      "description": "These wedge sandals are perfect for a day at the beach. They have a cushioned insole and a non-slip sole for comfort and safety.",
-      "price": 79.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-wedge-sandals.jpg"
-    },
-    {
-      "id": "013",
-      "name": "Kids' Athletic Shoes",
-      "description": "These athletic shoes are perfect for kids who love sports. They are lightweight and provide great support for your child's feet.",
-      "price": 39.99,
-      "category": "Kids",
-      "image": "https://example.com/images/kids-athletic-shoes.jpg"
-    },
-    {
-      "id": "014",
-      "name": "Men's Loafers",
-      "description": "These loafers are perfect for casual occasions. They are comfortable and stylish, with a slip-on design for convenience.",
-      "price": 89.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-loafers.jpg"
-    },
-    {
-      "id": "015",
-      "name": "Women's Ankle Boots",
-      "description": "These ankle boots are perfect for fall and winter. They are stylish and comfortable, with a cushioned insole and a non-slip sole.",
-      "price": 69.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-ankle-boots.jpg"
-    },
-    {
-      "id": "016",
-      "name": "Kids' Snow Boots",
-      "description": "These snow boots are perfect for kids who love to play in the snow. They have a waterproof exterior and a soft lining for extra warmth.",
-      "price": 39.99,
-      "category": "Kids",
-      "image": "https://example.com/images/kids-snow-boots.jpg"
-    },
-    {
-      "id": "017",
-      "name": "Men's Athletic Shoes",
-      "description": "These athletic shoes are perfect for running and other sports. They are lightweight and provide great support for your feet.",
-      "price": 79.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-athletic-shoes.jpg"
-    },
-    {
-      "id": "019",
-      "name": "Kids' Sneakers",
-      "description": "These sneakers are perfect for everyday wear. They have a comfortable fit and a stylish design that kids will love.",
-      "price": 29.99,
-      "category": "Kids",
-      "image": "https://example.com/images/kids-sneakers.jpg"
-    },
-    {
-      "id": "020",
-      "name": "Men's Dress Shoes",
-      "description": "These dress shoes are perfect for formal occasions. They have a sleek design and a comfortable fit, with a cushioned insole for added comfort.",
-      "price": 99.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-dress-shoes.jpg"
-    },
-    {
-      "id": "021",
-      "name": "Women's Flip Flops",
-      "description": "These flip flops are perfect for the beach or pool. They have a comfortable fit and a non-slip sole for safety.",
-      "price": 19.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-flip-flops.jpg"
-    },
-    {
-      "id": "022",
-      "name": "Kids' Sandals",
-      "description": "These sandals are perfect for summer adventures. They have a comfortable fit and a non-slip sole for safety.",
-      "price": 24.99,
-      "category": "Kids",
-      "image": "https://example.com/images/kids-sandals.jpg"
-    },
-    {
-      "id": "023",
-      "name": "Men's Work Boots",
-      "description": "These work boots are perfect for heavy-duty work. They have a steel toe and a slip-resistant sole for safety, and a comfortable fit for all-day wear.",
+      "id": 4,
+      "brand": "Puma",
+      "img": "https://cdn.pixabay.com/photo/2016/11/19/11/24/puma-1838735__480.jpg",
       "price": 149.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-work-boots.jpg"
+      "details": "These training shoes feature a supportive fit and a durable outsole. Available in men's and women's sizes.",
+      "category": "Training Shoes"
     },
     {
-      "id": "024",
-      "name": "Women's High Heels",
-      "description": "These high heels are perfect for formal occasions. They have a sleek design and a comfortable fit, with a cushioned insole for added comfort.",
-      "price": 89.99,
-      "category": "Women",
-      "image": "https://example.com/images/womens-high-heels.jpg"
-    },
-    {
-      "id": "025",
-      "name": "Kids' Rain Boots",
-      "description": "These rain boots are perfect for rainy days. They have a waterproof exterior and a soft lining for extra warmth and comfort.",
-      "price": 29.99,
-      "category": "Kids",
-      "image": "https://example.com/images/kids-rain-boots.jpg"
-    },
-    {
-      "id": "026",
-      "name": "Men's Boat Shoes",
-      "description": "These boat shoes are perfect for casual occasions. They have a slip-resistant sole and a comfortable fit, with a cushioned insole for added comfort.",
+      "id": 5,
+      "brand": "Vans",
+      "img": "https://cdn.pixabay.com/photo/2019/04/26/21/50/shoes-4158783__480.jpg",
       "price": 69.99,
-      "category": "Men",
-      "image": "https://example.com/images/mens-boat-shoes.jpg"
+      "details": "These skate shoes feature a durable canvas upper and a grippy rubber sole. Available in men's and women's sizes.",
+      "category": "Skate Shoes"
+    },
+    {
+      "id": 6,
+      "brand": "New Balance",
+      "img": "https://cdn.pixabay.com/photo/2020/06/29/04/33/shoes-5351339__480.jpg",
+      "price": 89.99,
+      "details": "These running shoes feature a lightweight design and responsive cushioning. Available in men's and women's sizes.",
+      "category": "Running Shoes"
+    },
+    {
+      "id": 7,
+      "brand": "Reebok",
+      "img": "https://cdn.pixabay.com/photo/2017/02/13/02/06/reebok-2061623__480.jpg",
+      "price": 79.99,
+      "details": "These training shoes feature a supportive fit and a durable outsole. Available in men's and women's sizes.",
+      "category": "Training Shoes"
+    },
+    {
+      "id": 8,
+      "brand": "Skechers",
+      "img": "https://cdn.pixabay.com/photo/2020/03/04/08/59/sports-4901000__480.jpg",
+      "price": 69.99,
+      "details": "These walking shoes feature a comfortable fit and a slip-resistant outsole. Available in men's and women's sizes.",
+      "category": "Walking Shoes"
+    },
+    {
+      "id": 9,
+      "brand": "Dr. Martens",
+      "img": "https://cdn.pixabay.com/photo/2016/09/02/11/10/boots-1638873__480.jpg",
+      "price": 149.99,
+      "details": "These classic boots feature a durable leather upper and a cushioned sole. Available in men's and women's sizes.",
+      "category": "Boots"
+    },
+    {
+      "id": 10,
+      "brand": "Birkenstock",
+      "img": "https://cdn.pixabay.com/photo/2016/07/25/13/52/woman-1540543__480.jpg",
+      "price": 99.99,
+      "details": "These sandals feature a contoured footbed and a supportive design. Available in men's and women's sizes.",
+      "category": "Sandals"
+    },
+    {
+      "id": 11,
+      "brand": "Asics",
+      "img": "https://cdn.pixabay.com/photo/2014/06/18/18/42/running-shoe-371625__480.jpg",
+      "price": 129.99,
+      "details": "These running shoes feature a responsive midsole and a breathable upper. Available in men's and women's sizes.",
+      "category": "Running Shoes"
+    },
+    {
+      "id": 12,
+      "brand": "Fila",
+      "img": "https://cdn.pixabay.com/photo/2014/04/03/11/37/tennis-shoes-312023__480.png",
+      "price": 59.99,
+      "details": "These retro sneakers feature a chunky design and a padded collar. Available in men's and women's sizes.",
+      "category": "Casual Shoes"
+    },
+    {
+      "id": 13,
+      "brand": "Timberland",
+      "img": "https://cdn.pixabay.com/photo/2019/04/17/10/17/work-boots-4133817__480.jpg",
+      "price": 199.99,
+      "details": "These waterproof boots feature a leather upper and a durable outsole. Available in men's and women's sizes.",
+      "category": "Boots"
+    },
+    {
+      "id": 14,
+      "brand": "Crocs",
+      "img": "https://cdn.pixabay.com/photo/2019/10/12/11/42/sneakers-4543774__480.jpg",
+      "price": 49.99,
+      "details": "These clogs feature a comfortable fit and a slip-resistant sole. Available in men's and women's sizes.",
+      "category": "Casual Shoes"
+    },
+    {
+      "id": 16,
+      "brand": "Adidas",
+      "img": "https://cdn.pixabay.com/photo/2019/03/06/15/27/adidas-4038397__480.jpg",
+      "price": 109.99,
+      "details": "These soccer cleats feature a lightweight design and a textured upper for improved control. Available in men's and women's sizes.",
+      "category": "Soccer Cleats"
+    },
+    {
+      "id": 17,
+      "brand": "Vans",
+      "img": "https://cdn.pixabay.com/photo/2016/04/12/14/52/inline-skate-1324496__480.jpg",
+      "price": 59.99,
+      "details": "These skate shoes feature a durable canvas upper and a vulcanized sole. Available in men's and women's sizes.",
+      "category": "Skate Shoes"
+    },
+    {
+      "id": 18,
+      "brand": "Puma",
+      "img": "https://cdn.pixabay.com/photo/2016/10/28/09/41/jordan-shoes-1777572__480.jpg",
+      "price": 89.99,
+      "details": "These basketball shoes feature a responsive midsole and a breathable upper. Available in men's and women's sizes.",
+      "category": "Basketball Shoes"
+    },
+    {
+      "id": 19,
+      "brand": "UGG",
+      "img": "https://cdn.pixabay.com/photo/2016/03/31/20/54/boots-1296077__480.png",
+      "price": 129.99,
+      "details": "These cozy boots feature a suede upper and a plush lining. Available in men's and women's sizes.",
+      "category": "Boots"
+    },
+    {
+      "id": 20,
+      "brand": "Converse",
+      "img": "https://cdn.pixabay.com/photo/2019/02/28/20/21/shoes-4026767__480.jpg",
+      "price": 49.99,
+      "details": "These classic sneakers feature a canvas upper and a rubber toe cap. Available in men's and women's sizes.",
+      "category": "Casual Shoes"
+    },
+    {
+      "id": 21,
+      "brand": "Salomon",
+      "img": "https://cdn.pixabay.com/photo/2015/11/05/22/31/sneakers-1024972__480.jpg",
+      "price": 149.99,
+      "details": "These trail running shoes feature a durable outsole and a breathable upper. Available in men's and women's sizes.",
+      "category": "Trail Running Shoes"
+    },
+    {
+      "id": 22,
+      "brand": "Hoka One One",
+      "img": "https://cdn.pixabay.com/photo/2014/06/18/18/41/running-shoe-371624__480.jpg",
+      "price": 179.99,
+      "details": "These cushioned running shoes feature a rocker sole for a smooth ride. Available in men's and women's sizes.",
+      "category": "Running Shoes"
+    },
+    {
+      "id": 23,
+      "brand": "Bates",
+      "img": "https://cdn.pixabay.com/photo/2018/01/10/23/00/hiking-shoes-3074971__480.png",
+      "price": 129.99,
+      "details": "These tactical boots feature a durable leather and nylon upper and a slip-resistant outsole. Available in men's sizes.",
+      "category": "Tactical Boots"
+    },
+    {
+      "id": 24,
+      "brand": "Keen",
+      "img": "https://cdn.pixabay.com/photo/2022/07/02/20/06/basketball-7297998__480.jpg",
+      "price": 119.99,
+      "details": "These hiking shoes feature a waterproof membrane and a rugged outsole. Available in men's and women's sizes.",
+      "category": "Hiking Shoes"
+    },
+    {
+      "id": 26,
+      "brand": "Nike",
+      "img": "https://cdn.pixabay.com/photo/2016/10/07/15/52/sports-shoes-1721890__480.jpg",
+      "price": 129.99,
+      "details": "These training shoes feature a flexible sole and a breathable upper. Available in men's and women's sizes.",
+      "category": "Training Shoes"
+    },
+    {
+      "id": 27,
+      "brand": "Merrell",
+      "img": "https://cdn.pixabay.com/photo/2019/10/01/19/42/basketball-4519198__480.jpg",
+      "price": 99.99,
+      "details": "These slip-on shoes feature a leather upper and a cushioned footbed. Available in men's and women's sizes.",
+      "category": "Casual Shoes"
+    },
+    {
+      "id": 28,
+      "brand": "Timberland",
+      "img": "https://cdn.pixabay.com/photo/2015/06/02/23/15/winter-boots-795706__480.jpg",
+      "price": 149.99,
+      "details": "These waterproof boots feature a nubuck leather upper and a rubber outsole. Available in men's and women's sizes.",
+      "category": "Boots"
+    },
+    {
+      "id": 29,
+      "brand": "Asics",
+      "img": "https://cdn.pixabay.com/photo/2019/09/28/12/31/sports-shoes-4510638__480.jpg",
+      "price": 119.99,
+      "details": "These running shoes feature a gel cushioning system and a breathable upper. Available in men's and women's sizes.",
+      "category": "Running Shoes"
+    },
+    {
+      "id": 30,
+      "brand": "New Balance",
+      "img": "https://cdn.pixabay.com/photo/2017/07/02/21/34/sport-shoe-2465915__480.jpg",
+      "price": 79.99,
+      "details": "These walking shoes feature a lightweight design and a cushioned footbed. Available in men's and women's sizes.",
+      "category": "Walking Shoes"
+    },
+    {
+      "id": 31,
+      "brand": "Saucony",
+      "img": "https://cdn.pixabay.com/photo/2013/05/31/20/33/running-shoes-115149__480.jpg",
+      "price": 109.99,
+      "details": "These running shoes feature a responsive midsole and a breathable upper. Available in men's and women's sizes.",
+      "category": "Running Shoes"
+    },
+    {
+      "id": 32,
+      "brand": "Brooks",
+      "img": "https://cdn.pixabay.com/photo/2014/05/18/11/26/shoes-346986__480.jpg",
+      "price": 129.99,
+      "details": "These running shoes feature a DNA LOFT cushioning system and a breathable upper. Available in men's and women's sizes.",
+      "category": "Running Shoes"
+    },
+    {
+      "id": 33,
+      "brand": "Dr. Martens",
+      "img": "https://cdn.pixabay.com/photo/2016/11/23/17/32/boots-1853964__480.jpg",
+      "price": 179.99,
+      "details": "These classic boots feature a leather upper and a slip-resistant outsole. Available in men's and women's sizes.",
+      "category": "Boots"
+    },
+    {
+      "id": 34,
+      "brand": "Reebok",
+      "img": "https://cdn.pixabay.com/photo/2014/12/31/11/41/shoes-584850__480.jpg",
+      "price": 89.99,
+      "details": "These cross-training shoes feature a flexible sole and a breathable upper. Available in men's and women's sizes.",
+      "category": "Training Shoes"
     }
   ]
 }
